@@ -9,7 +9,7 @@
 :root {
   font-size: 62.5%; /* 1rem = 10px -> por conta dessa propriedade */
 
-  --hue: 220;
+  --hue: 170;
   --primary-color: hsl(var(--hue), 100%, 26%);
   --secondary-color: hsl(210, 11%, 15%);
   --paragraph: hsl(210, 9%, 31%);
